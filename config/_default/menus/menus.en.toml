@@ -40,12 +40,12 @@
 #   weight = 15
 
 [[main]]
-  name = "Blog"
+  name = "Tutoriales"
   url = "/blog/"
   weight = 20
 
 [[main]]
-  name = "Get Started"
+  name = "Contacto"
   weight = 30
   identifier = "get-started"
   url = "/docs/prologue/introduction/"
