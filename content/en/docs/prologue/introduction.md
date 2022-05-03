@@ -1,7 +1,7 @@
 ---
-title: "Introduction"
-description: "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
-lead: "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
+title: "Nuestra Esencia"
+description: "playas.report busca presentar, involucrar, divulgar y establecer un modelo orientado a la transformacion inteligente, innovadora y sostenible de las playas turísticas que garantice su competitividad actual y futura."
+lead: "playas.report busca presentar, involucrar, divulgar y establecer un modelo orientado a la transformacion inteligente, innovadora y sostenible de las playas turísticas que garantice su competitividad actual y futura."
 date: 2020-10-06T08:48:57+00:00
 lastmod: 2020-10-06T08:48:57+00:00
 draft: false
@@ -13,46 +13,41 @@ weight: 100
 toc: true
 ---
 
-## Get started
+## Datos Marinos
 
-There are two main ways to get started with Doks:
+Los datos juegan un papel preponderante en la escencia de **playas.report** al ser claves para la toma de desciones sobre cómo, donde, cuando y para quien actuar. Así establecemos objetivos reales, estrategias aplicables y proyectos ajustados a cada contexto.
 
-### Tutorial
+### Herramientas
 
-{{< alert icon="👉" text="The Tutorial is intended for novice to intermediate users." />}}
+{{< alert icon="👉" text="Con herramientas informáticas y de programación adecuadas buscamos brindar un aporte valioso a la comunidad visitante, residente y en general a todas aquellas que de una u otra forma intervienen en nuestras playas." />}}
 
-Step-by-step instructions on how to start a new Doks project. [Tutorial →](https://getdoks.org/tutorial/introduction/)
 
-### Quick Start
+## La nueva ola de Playas
 
-{{< alert icon="👉" text="The Quick Start is intended for intermediate to advanced users." />}}
+Cada destino/grupo de trabajo toma la ola que cree mas lejos lo llevará, la nuestra se caracteriza por su altura tecnologica y versatilidad.
 
-One page summary of how to start a new Doks project. [Quick Start →]({{< relref "quick-start" >}})
+### Playas Autenticas
 
-## Go further
+La autenticidad innata de cada lugar no se negocia y es el punto de partida ideal para las transformaciones necesarias de la nueva ola de playas turisticas! 
 
-Recipes, Reference Guides, Extensions, and Showcase.
+Ante el desconocimiento, desinformacion, ausencia de recursos, la falta de capacidad u otro factor parecido es indispensable aplicar estrategias creativas y fundamentadas con herramientas tecnologicas para tener servicios de calidad, proteger el recurso o estar a la vanguardia de los principales destinos turisticos.
 
-### Recipes
 
-Get instructions on how to accomplish common tasks with Doks. [Recipes →](https://getdoks.org/docs/recipes/project-configuration/)
+### 3 pilares a considerar
 
-### Reference Guides
+- La extraccion, exploracion, transformacion, analisis y visualizacion de datos para potenciar la gestion, los porcesos diagnosticos y la monitorizacion de proyectos en playas turisticas.
 
-Learn how to customize Doks to fully make it your own. [Reference Guides →](https://getdoks.org/docs/reference-guides/security/)
+- Divulgacion, capacitacion y aplicacion de herramientas tecnológicas para acelerar los porcesos de digitalizacion en el sector. 
 
-### Extensions
+- Direccionamiento en la toma de desiciones efectivas y sostenibles a partir de los 2 enunciados anteriores.
 
-Get instructions on how to add even more to Doks. [Extensions →](https://getdoks.org/docs/extensions/breadcrumb-navigation/)
 
-### Showcase
+## Contribuir
 
-See what others have build with Doks. [Showcase →](https://getdoks.org/showcase/electric-blocks/)
+Puedes contribuir. [Comunicate →](https://getdoks.org/docs/contributing/how-to-contribute/)
 
-## Contributing
+## Un nuevo aire...
 
-Find out how to contribute to Doks. [Contributing →](https://getdoks.org/docs/contributing/how-to-contribute/)
+En **playa.report** brindamos un nuevo aire y vamos a la par de la nueva ola de playas turisticas. 
 
-## Help
 
-Get help on Doks. [Help →]({{< relref "how-to-update" >}})

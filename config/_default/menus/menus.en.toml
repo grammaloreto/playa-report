@@ -45,7 +45,7 @@
   weight = 20
 
 [[main]]
-  name = "Contacto"
+  name = "Gestión"
   weight = 30
   identifier = "get-started"
   url = "/docs/prologue/introduction/"
