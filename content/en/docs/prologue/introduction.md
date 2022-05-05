@@ -1,7 +1,7 @@
 ---
 title: "Nuestra Esencia"
-description: "playas.report busca presentar, involucrar, divulgar y establecer un modelo orientado a la transformacion inteligente, innovadora y sostenible de las playas turísticas que garantice su competitividad actual y futura."
-lead: "playas.report busca presentar, involucrar, divulgar y establecer un modelo orientado a la transformacion inteligente, innovadora y sostenible de las playas turísticas que garantice su competitividad actual y futura."
+description: "playas.report busca presentar, divulgar y consolidar un nuevo modelo de reportes con informacion inteligente e innovadora de playas turísticas."
+lead: "playas.report busca presentar, divulgar y consolidar un nuevo modelo de reportes con informacion inteligente e innovadora de playas turísticas."
 date: 2020-10-06T08:48:57+00:00
 lastmod: 2020-10-06T08:48:57+00:00
 draft: false

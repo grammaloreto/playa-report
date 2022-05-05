@@ -58,10 +58,10 @@
   parent = "get-started"
 
 [[main]]
-  name = "Tutorial"
+  name = "Blog"
   weight = 50
   identifier = "tutorial"
-  url = "https://getdoks.org/tutorial/introduction/"
+  url = "https://grammaloreto.netlify.app"
   parent = "get-started"
 
 [[social]]
