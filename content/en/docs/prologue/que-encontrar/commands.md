@@ -1,7 +1,7 @@
 ---
-title: "Commands"
+title: "Que vas a encontrar"
 description: "Doks comes with commands for common tasks."
-lead: "Doks comes with commands for common tasks."
+lead: "Paquetes tecnologicos poco convencionales pero que amplian el conocimiento y pueden brindar informacion valiosa de costas-playas y todo lo que pueda girar en torno a ellas."
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
@@ -13,7 +13,7 @@ weight: 130
 toc: true
 ---
 
-{{< alert icon="💡" text="You can change the commands in the scripts section of `./package.json`." />}}
+{{< alert icon="💡" text="Nos estamos ahogando en información, mientras estamos hambrientos de sabiduría. El mundo de ahora en adelante estará dirigido por sintetizadores, personas capaces de reunir la información correcta en el momento correcto, piense críticamente al respecto y tome decisiones importantes sabiamente. (E O. Wilson)" />}}
 
 ## create
 

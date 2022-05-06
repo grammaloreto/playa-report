@@ -1,7 +1,7 @@
 ---
 title: "Reportes"
 description: "Componentes de un playa report."
-lead: "Un resumen de que contiene cada reporte."
+lead: "Se necesitan nuevas alternativas de contenido de calidad para tener una radiografia completa de nuestras playas"
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false
@@ -13,62 +13,36 @@ weight: 110
 toc: true
 ---
 
-## Ciencia de Datos Marinos
+Cada vez son más los datos que se generan en distintos campos y en la mayoría de casos no son aprovechados por el desconocimiento de herramientas asociadas, por el costo de su procesamiento o por la dificultad de poder acceder a ellos.
 
-Cada vez son más los datos que se generan en distintos campos y en la mayoría de casos no pueden ser aprovechados por el desconocimiento de herramientas asociadas, por el costo de su procesamiento o por la dificultad de poder acceder a ellos. El "mix" de la Ciencia de los Sistemas Terrestres con el actual y vigente Data Science puede ser una respuesta para una nueva forma de adquirir conocimiento de nuestros océanos y todo aquello que puede girar en torno a ellos.
+Este paradigma tiene que cambiar. Es posible hacer un mejor uso de la diversidad de información para aplicarlo en la resolucón de problemas.
 
-{{< details "Ques es Ciencia de Datos Marinos (CDM)?" >}}
-CDM puede considerarse como una ciencia de interfaz, es decir, la intersección de 2 disciplinas (estudio de datos y los sistemas de la tierra) que permite intervenir en campos con enfoques conceptuales distintos y extender el espacio de acción e investigación.
-{{< /details >}}
+## Reportes anticuados y superficiales
 
-### Un poco mas técnicos...
+Lamentablemente son comunes. Reportes sustentados muy pobremente y sin ningun cambio durante años. 
 
-Entre la heterogeneidad existente de datos marinos en cada reporte nos concentramos en:
+Existen institutos que generan los mismos informes periodicos a lo largo de decadas sin ninguna evolucion o direccionamiento.
 
-- Los productos espacio-temporales altamente procesados. Las mediciones de teledetección que se validan con observaciones de campo son el principal ejemplo. Los algoritmos, modelos o redes neuronales sobre estos datos obtienen estimaciones de las propiedades del océano a gran escala.
+Nos dirimos a una sociedad cada vez mas conectada y diversa en la tenemos que ser creativos para conseguir y exponer informacion de calidad.
 
+## Código o no Codigo: esa es la cuestión
 
-## Análisis de Sentimientos
+Para nadie es un secreto que todo este nuevo contexto tecnologico y conectado que se esta desarrollando requiere de preparación. Los cambios no se generan de la noche a la mañana y por tal motivo el tiempo juega un papel preponderante.
 
-### El poder de las palabras
+El punto de inflexion para sacarle provecho a la mayoria de datos e informacion que se nos presenta es sencillo: Codigo o no Codigo.
 
-Cuando nos dicen datos siempre imaginamos números o tablas. Esa asociación es válida
-pero limitada. 
+>Hay que aclarar y desmentir que si no se sabe algun lenguaje de programación es imposible innovar o documentar novedosamente. Existe software o programas informaticos especificos para hacer tareas puntuales y de forma eficiente. Aunque algo si esta claro, tener una base de programacion da un salto de calidad enorme en el aprovechamiento, manipulacion, accesibilidad, transformacion, visulaizacion de datos y de otros productos.
 
-Con herramientas informaticas es posible transformar palabras (comentarios) en valores 
-cuantitativos para tener una mejor interpretacion de opiniones o calificaciones de 
-lugares, productos, servicios en redes sociales y demás plataformas digitales. 
+### Todas las herramientas son validas!
 
-Como "los usuarios siempre tienen la razon" en nuestra web le damos el valor que 
-se merece a este mundo en el que las palabras pueden direccionar la desicion de culaquier persona.
+Afortunadamente no hay dictaduras y el espectro es muy amplio. Es verdad que para ciertos tareas es mejor usar una herramienta sobre la otra, pero la realidad es que hay mayor empatía con unas en base a los recursos con que se cuente, la facilidad de aprendizaje y sobretodo la utilidad que se le puede dar.
 
-Las tecnicas de procesamiento de Lenguaje natural (NLP) son un espectro amplio y poderosas que aporta 
-un valor intrinseco valido en cuanlquier contexto.
+Una cosa es cierta, no hay que casarse con una sola herramienta. En tiempos vertiginosos denode cada día cambian o se reconfiguran muchos factores es importante conocer y dominar todo tipo de actores del mundo tecnológico.
 
-### NLP y playas
+### Aprendizaje...
 
-Las playas y su gestión al igual que otros campos que empiezan a aplicar NLP, están aprovechando los datos de las redes sociales para evaluar como las personas interactúan, piensan o se relacionan con estos lugares.
-
-Los análisis de sentimientos son la aplicación más común de examinar las actitudes y emociones de los visitantes hacia cierto punto del arenal, de algún servicio o experiencia.
-
-Si quieres conocer mas del tema puedes [leer acá](https://www.grammaloreto.co/es/post/nlp-gestion-costera/) 
+Las posibilidades de aprendizaje son infinitas y va en cada persona el tener la iniciativa de superarse día a dia. Es bueno tener disyuntivas e informarse antes de adentrarse a tematicas retadoras para muchos pero que facilitaran el día a día. 
 
 
-## OCEAN COLOR
-
-### Que es "el color del oceano"?
-
-El color del océano es la rama de la óptica oceánica que estudia específicamente el color del agua y la información que se puede obtener al observar las variaciones de color.
-
-### Por que el océano es Azul?
-
-El color azul del océano es el resultado de varios factores. En primer lugar, el agua absorbe preferentemente la luz roja, lo que significa que la luz azul permanece y se refleja fuera del agua. La luz roja se absorbe más fácilmente y, por lo tanto, no alcanza grandes profundidades, por lo general a menos de 50 metros 
-
-### Para qué usar los colores del océano?
-
-Las mediciones del color del océano se pueden utilizar para inferir información importante, como la biomasa de fitoplancton o las concentraciones de otros materiales vivos y no vivos. Los patrones de la proliferación de algas desde satélite a lo largo del tiempo, en grandes regiones hasta la escala del océano global, han sido fundamentales para caracterizar la variabilidad de los ecosistemas marinos. Los datos de color de los océanos son una herramienta clave para investigar cómo responden los ecosistemas marinos al cambio climático y las perturbaciones antropogénicas.
 
 
-## Nueva info pronto!
-
-Siempre hay que estar buscando nuevas rutas y formas de conocer mejor nuestro entorno. Innovar, actualizarse y aplicar nuevas tecnologías es primordial para **playa.report**.

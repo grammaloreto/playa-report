@@ -1,5 +1,5 @@
 ---
-title: "Nuestra Esencia"
+title: "Esencia"
 description: "playas.report busca divulgar y consolidar herramientas no convencionales para aplicarlas en un nuevo modelo de reportes con informacion inteligente e innovadora para nuestras playas."
 lead: "playas.report busca divulgar y consolidar herramientas no convencionales para aplicarlas en un nuevo modelo de reportes con informacion inteligente e innovadora para nuestras playas."
 date: 2020-10-06T08:48:57+00:00
