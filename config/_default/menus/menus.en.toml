@@ -40,7 +40,7 @@
 #   weight = 15
 
 [[main]]
-  name = "Tutoriales"
+  name = "Reportes"
   url = "/blog/"
   weight = 20
 

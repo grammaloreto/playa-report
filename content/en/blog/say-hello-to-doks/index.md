@@ -1,8 +1,8 @@
 ---
-title: "Por que necesitamos nuevos reportes?"
+title: "Por que necesitamos nuevas estructuras o formatos de reportes?"
 description: "Introducing Doks, a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-lead: "En muchos escenarios nos quedamos con reportes/informes superficiales, poco sustentados y sin el uso de herramientas tecnologicas actuales que faciliten, diagnostiquen o brinden una radiografia profunda de algun lugar, evento o servicio. "
-date: 2020-11-04T09:19:42+01:00
+lead: "En muchos escenarios nos quedamos con reportes/informes superficiales, poco sustentados y sin el uso de herramientas tecnologicas de vanguardia que faciliten, diagnostiquen o brinden una radiografia profunda de algun lugar, evento o servicio. "
+date: 2021-11-04T09:19:42+01:00
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
