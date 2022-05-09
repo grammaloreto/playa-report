@@ -1,5 +1,5 @@
 ---
-title: "Un ejemplo Concreto: Ocean Color"
+title: "Un caso aplicado: Ocean Color"
 description: "Solutions to common problems."
 lead: "El color del océano es la rama de la óptica oceánica que estudia específicamente el color del agua y la información que se puede obtener (mediante sensores remotos) al observar las variaciones de color."
 date: 2020-11-12T15:22:20+01:00
