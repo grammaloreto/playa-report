@@ -57,6 +57,22 @@ Beautiful Soup es una biblioteca de Python ampliamente usada y conocida. A la pa
 
 En lo particular Beautiful Soup es el escogido en el tutorial de esta seccion y podras ver como puedes implementarlo.
 
+### Escogencia de Modelo
+
+Este paso es crucial ya que determina que tan acertado o confiable es un analisis. Existen diversos modelos para distintas tareas de PLN: traduccion, generacion de texto, resumenes, respuesta de preguntas o clasificacion de texto (que seria el objeto del tutorial).
+
+Al momento de la escogencia del modelo es importante tener claras ciertas consideraciones: en que idioma van a estar los comentarios a analizar, de que plataforma se van a extraer, si van a ser evaluados como positivos-negativos-neutrales, si van a ser resultados numericos, como fue entrenado el modelo, con que tipo de datos.
+
+### Caso particular tutorial
+
+Se escoge un model BERT multilingue (Ingles, holandes, aleman, frances, italiano, español) entrenado con comentarios de 1 a 5. 
+
+Aunque en el ultimo tiempo estan apareciendo mas modelos en español todavia son pocos a comparacion de los existentes en otros idiomas. 
+
+Con los analisis de sentimientos y demas trabajos de Procesamiento de Lenguaje Natural (PLN) el proposito para un futuro es tener un modelo propio dedicado exclusivamente a playas y en español.
+
+Si de alguna forma quieres colaborar AQUI 
+
 
 
 
