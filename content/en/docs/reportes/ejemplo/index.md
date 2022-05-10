@@ -1,5 +1,5 @@
 ---
-title: "Un caso Aplicado: Análisis de Sentimientos"
+title: "Análisis de Sentimientos"
 description: "Solutions to common problems."
 lead: "Los análisis de sentimientos son la aplicación más común de todas las herramientas de PLN para examinar actitudes y emociones de los visitantes hacia cierto punto de la playa, algun servicio o el tipo de experiencia (positiva-negativa)."
 date: 2020-11-12T15:22:20+01:00
