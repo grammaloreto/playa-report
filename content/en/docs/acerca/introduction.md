@@ -44,7 +44,7 @@ Ante el desconocimiento, desinformacion, ausencia de recursos, la falta de capac
 
 ## Contribuir
 
-Puedes contribuir. [Comunicate →](https://getdoks.org/docs/contributing/how-to-contribute/)
+Puedes contribuir. [Comunicate →](https://grammaloreto.co/es/contacto)
 
 ## Un nuevo aire...
 
