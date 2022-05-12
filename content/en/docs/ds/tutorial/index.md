@@ -79,6 +79,11 @@ Para terminar, los valores resultantes del proceso anterior se multiplican por 0
 ```bash
 df["sst"] = df["sst_replace"]*(0.01)
 ```
+## Temperatura Superficial del Mar (SST) en Islas de Rosario - Colombia 
+
+De Google Earth Engine (GEE) se extrajeron los datos de Temperatura Superficial del Mar (SST) de 11 puntos del Parque Nacional Natural Islas del Rosario ubicado en el Caribe colombiano. 
+
+Los datos son básicamente una media diaria de 13 días de diferentes años. En este caso del 1 al 13 de enero de los años 1985, 2000 y 2020. 
 
 ### Descripción - Visualización
 
@@ -90,6 +95,52 @@ Si quiere tener una radiografía mas completa donde se obtenga la media, desviac
 df.head()
 df.describe()
 ```
+
+Las graficas son otra forma de conocer bien nuestros datos para observar patrones y determinar cual es la mejor forma de tratarlos.
+
+![](t8520.png "Imagen 1. Perfil de temperatura superficial promedio durante los primeros 13 días del año 1985 y 2020 en 11 estaciones marinas en el Parque Nacional Natural Islas del Rosario - Colombia.")
+
+![](t2000.png "Imagen 2. Perfil de temperatura superfial promedio del año 2000 durante los primeros 13 dias del año en 11 estaciones marinas en el Parque Nacional Natural Islas del Rosario - Colombia.")
+
+![](corr.png "Imagen 3. Correlación de las 11 estaciones donde se tomarón las temperaturas superficiales del mar (SST) en el Parque Nacional Natural Islas del Rosario - Colombia")
+
+
+La Temperatura Superficial del Mar (SST) máxima alrededor de los 11 puntos del parque aumentó 1,72 ºC de 1985 a 2020 (27,90 a 29,07 ºC). Más dramática es la comparación de medias de SST que muestra aguas más calientes con un aumento de 1,95 ºC. Esta nueva configuración de temperaturas afecta a los corales (blanqueamiento) y a la diversidad de especies marinas. 
+
+Si quiere revisar con mas detalle datos, código o el proceso en sí, puede dirigirse a [👉este repositorio de GitHub.](https://github.com/grammaloreto/SeaSurfaceTemperature-SST-)
+
+## Pronóstico datos Espacio-Temporales
+
+Con los datos espacio-temporales (en nuestro caso la temperatura superficial del mar desde el año 1985 al 2020) es común o habitual hacer pronósticos, predecir comportamientos, valores, tendencias etc.
+
+Hay variedad de herramientas y tecnicas para relaizar pronosticos con los distintos tipos de datos. Con los *espacio-temporales*, [Prophet](https://facebook.github.io/prophet/) de Facebook o mediante redes neuronales recurrentes LSTM (Long Short Term Memory) pueden ser buenas opciones.  
+
+### Redes Neuronales Recurrentes LSTM
+
+LSTM es un tipo de red neuronal recurrente (RNN) muy comun en predicciones bursátiles y PLN (definidos en nuestros docs). 
+
+En este caso, con la temperatura de la superficie del mar (SST) de cada una de las 11 estaciones o puntos de interés del Parque Nacional Natural Islas del Rosario, se entrenó un modelo para predecir valores precisos de temperatura y poder manejar las enfermedades de los corales asociadas a su aumento a futuro.
+
+![](ts.png "Imagen 4. Valores observados y esperados (predicción) de de temperatura sueprfical del mar (SST) para la estación 1 en el Parque Nacional Natural Islas del Rosario - Colombia")
+
+Este proceso se repitió para cada una de las otras 10 estaciones. Para profundizar revisar [👉 aquí.](https://github.com/grammaloreto/SeaSurfaceTemperature-SST-/tree/main/timeSeriesPrediction) 
+
+### Prophet
+
+Con el procedimiento de Prophet (Desarrollado por el equipo de inteligencia artificial de Facebook) se realiza una metodologia diferente para pronosticar las temperaturas.
+
+Para este caso se recolectó la temperatura de la superficie del mar (SST) de 2020-2021 en los 11 puntos del Parque Nacional Natural Islas del Rosario y tener un pronostico de SST de los meses (100 dias) posteriores al ultimo dia en que se tomarón datos para entrenar el modelo (Diciembre 31 de 2021).
+
+El resultado fue:
+
+![](prophet.png "Imagen 5. Pronostico de la temperatura superficial del mar (SST) en el Parque Nacioanl Natural Islas de Rosario para los primeros 100 dias del año 2022 a partir de los datos recogidos de los años 2020 y 2021.")
+
+Para profundizar la metodología con Prophet [👉 aquí.](https://github.com/grammaloreto/SeaSurfaceTemperature-SST-/tree/main/prophetForecasting)
+
+
+
+
+
 
 
 
