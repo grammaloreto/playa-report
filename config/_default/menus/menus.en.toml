@@ -5,10 +5,10 @@
   url = "/docs/acerca/"
 
 [[docs]]
-  name = "Help"
+  name = "Sensores Remotos"
   weight = 60
-  identifier = "help"
-  url = "/docs/help/"
+  identifier = "sensores-remotos"
+  url = "/docs/sensores-remotos/"
 
 
 [[guide]]
@@ -34,30 +34,37 @@
 #   url = "/tutorial/lorem/ipsum/"
 #   weight = 15
 
+#[[main]]
+#  name = "Blog"
+#  url = "/blog/"
+#  weight = 20
+
 [[main]]
   name = "Reportes"
-  url = "/blog/"
-  weight = 20
+  url = "/docs/acerca/report"
+  weight = 20  
 
 [[main]]
-  name = "Digital"
-  weight = 30
-  identifier = "digital"
-  url = "/docs/acerca/introduction/"
-
-[[main]]
-  name = "Report"
-  weight = 40
-  identifier = "report"
-  url = "/docs/acerca/report/"
-  parent = "digital"
-
-[[main]]
-  name = "Blog"
+  name = "MyBlog"
   weight = 50
   identifier = "tutorial"
   url = "https://grammaloreto.netlify.app"
-  parent = "get-started"
+  parent = "Digital"
+
+[[main]]
+  name = "Gramma loreto"
+  weight = 40
+  identifier = "gramma-loreto"
+  url = "https://grammaloreto.co/es"
+  parent = "Digital"  
+
+[[main]]
+  name = "Web"
+  weight = 60
+  identifier = "web"
+  url = "/blog/todo-empieza-con-una-web"
+  parent = "Digital"  
+ 
 
 [[social]]
   name = "GitHub"
