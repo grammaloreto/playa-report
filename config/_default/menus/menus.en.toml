@@ -76,7 +76,7 @@
   name = "Análisis de Sentimientos"
   weight = 50
   identifier = "sentimientos"
-  url = "/docs/reportes/tutorial"
+  url = "/docs/pln/tutorial"
   parent = "Tutorial"  
 
 [[main]]
