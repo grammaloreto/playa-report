@@ -1,7 +1,7 @@
 ---
 title: "En la práctica con Hugging Face"
-description: "Como manipulas Imagenes-Datos de Ocean color derivados de un Satelite como Sentinel-3 ?"
-lead: "Manos a la obra con 🤗Hugging Face🤗! una herramienta de 'transformadores' muy poderasa que nos ayuda a convertir texto (letras-palabras) a datos númericos y poder analizarlo de diferentes formas."
+description: "Manos a la obra con Hugging Face"
+lead: "Manos a la obra con 🤗Hugging Face🤗! una herramienta de 'transformadores' muy poderosa que nos ayuda a convertir texto (letras-palabras) a datos numéricos y poder analizarlos de diferentes formas."
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false
@@ -15,15 +15,15 @@ toc: true
 
 ## Resumen
 
-El proposito es analizar los sentimientos de comentarios escritos por usuarios en una plataforma popular de viajes sobre su experiencia en playas turísticas. 
+El propósito es analizar los sentimientos de comentarios escritos por usuarios en una plataforma popular de viajes sobre su experiencia en playas turísticas. 
 
-El proceso consta basicamente de 3 pasos:
+El proceso consta básicamente de 3 pasos:
 
 - Extracción de comentarios en la plataforma de viajes escogida. A este proceso se le denomina "web scraping".
 
-- Organizar los comentarios en una base de datos de facil manipulacion.
+- Organizar los comentarios en una base de datos de fácil manipulación.
 
-- Tokenización de texto con Hugging Face🤗. Se usa un Modelo BERT multilingue por lo que es posible trabajar con otros idiomas diferentes al español. El modelo ha sido entrenado en inglés, aleman, holandes o frances, entre otros.
+- Tokenización de texto con Hugging Face🤗. Se usa un Modelo BERT multilingüe por lo que es posible trabajar con otros idiomas diferentes al español. El modelo ha sido entrenado en inglés, alemán, holandés o francés, entre otros.
 
 
 ## Pre-requisitos

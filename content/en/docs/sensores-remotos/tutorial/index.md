@@ -1,7 +1,7 @@
 ---
-title: "Colores del oceáno con Sentinel-3"
-description: "Como manipulas Imagenes-Datos de Ocean color derivados de un Satelite como Sentinel-3 ?"
-lead: "Como manipular Imagenes-Datos de Ocean color derivados de un Satelite como Sentinel-3 ?"
+title: "Colores del océano con Sentinel-3"
+description: "Cómo manipular Imagenes-Datos de Ocean color derivados de un Satélite Sentinel-3?"
+lead: "Cómo manipular Imágenes-Datos de Ocean Color derivados de un Satélite Sentinel-3 ?"
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false
@@ -23,16 +23,16 @@ Los niveles de procesamiento pueden ser de:
 
 - nivel 2 o superior: derivados y productos de síntesis de modelos-algoritmos.
 
-*clave:*
-**En este tutorial vamos a trabajar con datos de nivel 1 (L1) y mediante SNAP (el Software de la Agencia Espacial Europea ESA para trabajar productos sentinel) procesaremos la imagen para obtener productos de nivel 2 (concetracion de clorofila y materia total suspendida MTS)**
+*A tener en cuenta:*
+**En este tutorial vamos a trabajar con un producto de nivel 1 (L1) y mediante SNAP (el Software de la Agencia Espacial Europea ESA para trabajar con Sentinel) procesaremos la imagen descargada para obtener productos de nivel 2 (concetración de clorofila y materia total suspendida TSM).**
 
 ## Copernicus Hub
 
-[Copernicus Hub](https://scihub.copernicus.eu/) es la plataforma para descargar productos de todas las misiones sentinel. En el link OpenHub puedes ingresar y registrarte.
+[Copernicus Hub](https://scihub.copernicus.eu/) es la plataforma para descargar productos de todas las misiones Sentinel. En la sección OpenHub puede ingresar y registrarse.
 
-### Descargar un producto Sentinel 3 nivel 1 (L1). 
+### Descargar un producto Sentinel 3 nivel 1 (L1)
 
-Especificar en el mapa algun polígono (área) de interés. Especificar un rango de fechas (sensing dates), la mision (sentinel 3) y el tipo de instrumento (este caso OLCI).
+Especificar en el mapa algún polígono (área) de interés. Referenciar un rango de fechas (sensing dates), la misión (en este caso Sentinel 3) y el tipo de instrumento (OLCI).
 
 ![](hub2.PNG)
 
@@ -40,7 +40,7 @@ La carpeta del producto tiene alrededor de 550 y 700 MB de tamaño. Trate de esc
 
 ## SNAP
 
-Si no tiene el software SNAP para trabajar productos Copernicus (Imagenes Sentinel) lo puede descargar [aquí.](https://step.esa.int/main/download/snap-download/)
+Si no tiene el software SNAP para trabajar productos Copernicus (Imágenes Sentinel) lo puede descargar [aquí.](https://step.esa.int/main/download/snap-download/)
 
 ### 1. Product Explorer
 Arrastre la carpeta resultante de la descarga del Copernicus Hub al software SNAP a la parte superior izquierda denominada "Product Explorer".
@@ -48,7 +48,7 @@ Arrastre la carpeta resultante de la descarga del Copernicus Hub al software SNA
 ![](snap1.PNG)
 
 ### 2. Imagen RGB
-Haga clic con el botón derecho en el archivo del "Product Explorer" y seleccione "Abrir la ventana de imagen RGB" o "Open the RGB Image Window" para visualizar el producto. Para Sentinel 3 puede elegir las bandas 8, 6 y 4 respectivamente.
+Haga click con el botón derecho en el archivo del "Product Explorer" y seleccione "Abrir la ventana de imagen RGB" (Open the RGB Image Window) para visualizar el producto. Para una coloración "normal" puede elegir las bandas 8, 6 y 4 respectivamente.
 
 ![](snap2.PNG)
 
@@ -56,19 +56,19 @@ Haga clic con el botón derecho en el archivo del "Product Explorer" y seleccion
 ### 3. Subset
 >Es mejor trabajar con subproductos/subconjuntos/subsets (partes del archivo original o áreas específicas) porque la manipulación de un producto completo puede llevar mucho tiempo y recursos informáticos.
 
-- Producto Completo (lo que se descarga en el Copernicus Hub)
+- Producto Completo (lo que descarga del Copernicus Hub)
 
 ![](snap6.PNG)
 
-- Subset (área de ínteres del producto completo)
+- Subset (área de ínteres seleccionada del producto completo)
 
 ![](snap7.PNG)
 
-**Para crear un subproducto,** haga clic en Ráster (en la barra de herramientas) y luego en Subset.
+**Para crear un subset,** haga click en Ráster (en la barra de herramientas) y luego en Subset.
 
 ![](snap3.PNG)
 
-### 4. Tipos de Subsets
+### 4. Tipos de Subset
 Es posible realizar: Subset Espacial (Spatial Subset), Subset de Bandas (Band Subset), Subset de Cuadrícula Tie-Point o Subset de Metadatos. 
 
 Por ejemplo, si desea tener un área específica de estudio en más de un producto descargado, puede elegir el subset espacial (Spatial Subset) y la opción Geo Coordinate.
@@ -76,7 +76,7 @@ Por ejemplo, si desea tener un área específica de estudio en más de un produc
 ![](snap4.PNG)
 
 ### 5. Trabajando con un Subset
-Después del proceso del subset del producto original, el sub-producto aparecerá en el Explorador de Productos.
+Después del proceso del subset a partir del producto original, este aparecerá en el Explorador de Productos.
 
 ![](snap5.PNG)
 
@@ -84,7 +84,7 @@ Puede abrir el nuevo subset siguiendo el paso 2.
 
 ## OLCI PROCESSOR
 
-Hora de procesar el subproducto para hallar concentraciones de clorofila (conc_chl) y materia total suspendida (conc_tsm) mediante la funcion "Procesadores OLCI".
+Hora de procesar el subproducto para hallar concentraciones de clorofila (conc_chl) y materia total suspendida (conc_tsm) mediante la función "Procesadores OLCI".
 
 Vale la pena recordar que OLCI (Ocean and Land Colour Instrument) es el sensor del satélite Sentinel-3 que toma las medidas con las que estamos trabajando.
 
@@ -95,22 +95,22 @@ Vale la pena recordar que OLCI (Ocean and Land Colour Instrument) es el sensor d
 
 ![](snap8.PNG)
 
-### 7. Parametros
+### 7. Parámetros
 Después del paso 6 aparecerá una ventana. Es importante tener en cuenta un par de cosas:
 
 - En **I/O Parameters:**
 
   - confirme que en *OLCI L1b product* esté el subset correcto.
 
-  - elija el directorio (Directory) donde va a guardar los subsets de clorofila y tsm.
+  - elija el directorio (Directory) donde va a guardar los subsets de clorofila y tsm (mts).
 
   ![](snap9.PNG)
 
 - En **Processing Paramets:**
 
-  - elija la Salinidad (Salinity) y Temperatura (Temperature) correctas del lugar donde este trabajando. Por ejemplo, en el Caribe colombiano la temperatura media durante el último año fue alrededor de unos 28°C y la salinidad de 35 PSU. En otros lugares las temperaturas pueden bajar drasticamente, tambien la salinidad.
+  - elija la Salinidad (Salinity) y Temperatura (Temperature) correctas del lugar donde esté trabajando. Por ejemplo, en el Caribe colombiano la temperatura media durante el último año fue alrededor de unos 28°C y la salinidad de 35 PSU. En otros lugares las temperaturas pueden bajar drásticamente, también la salinidad.
 
-  - deje las otras opciones por defecto pero recuerde ser consciente de las propiedades físicas en el área de estudio.
+  - deje las otras opciones por defecto, pero recuerde ser consciente de las propiedades físicas en el área de estudio.
 
   ![](snap10.PNG)
 
@@ -119,16 +119,16 @@ Después del paso 6 aparecerá una ventana. Es importante tener en cuenta un par
 ## Chl (clorofila)
 
 ### 8. conc_chl
-Después de ejecutar el modelo, aparecerá un subset nuevo en "Product Explorer", en este caso es el número 3.
+Al finalizar la ejecución del modelo, aparecerá un subset nuevo en "Product Explorer", en este caso es el número 3.
 
 ![](snap11.PNG)
 
-Busque **conc_chl** en el nuevo subset y ábralo con un doble click
+Busque **conc_chl** en el nuevo subset y ábralo con un doble click.
 
 ![](snap12.PNG)
 
 ### 9. Paleta de colores
-Es difícil reconocer un patrón porque la imagen está en blanco y negro. Vaya al cuadro "Manipulación de color" (Color Manipulation) que se encuentra debajo de "Product Explorer". Haga click en el icono "importar paleta de colores desde archivo de texto" (import colour palette from text file) en la parte derecha.
+Es difícil reconocer un patrón porque la imagen está en blanco y negro. Vaya al cuadro "Manipulación de color" (Colour Manipulation) que se encuentra debajo de "Product Explorer". Haga click en el icono "importar paleta de colores desde archivo de texto" (import colour palette from text file) en la parte derecha.
 
 ![](snap13.PNG)
 
@@ -136,49 +136,49 @@ En la ventana que aparece (recuadro de abajo) escoja la paleta de su preferencia
 
 ![](snap14.PNG)
 
-- Ejemplo de Imagen Resultante
+- Ejemplo de Imagen Resultante:
 
 ![](snap15.PNG)
 
-### 10. Correción de nubes
->Es importante hacer una **correción de nubes**.
+### 10. Corrección de nubes
+Es importante hacer una **corrección de nubes** adecuada para no obtener datos erroneos.
 
 Haga click en el "Administrador de máscaras" (Mask Manager) que está en el lado derecho de la pantalla (puede verlo en la imagen anterior) y elija la opción "Cloud_risk". 
 
 Puede elegir otras banderas para obtener mejores resultados. Por ejemplo, "quality_flags_land".
 
->La nueva imagen resultante tiene píxeles de nube en gris y tierra en verde oscuro.
+La imagen resultante tendrá píxeles de nube en gris y tierra en verde oscuro.
 
 ![](snap16.PNG)
 
-Para englobar las **correcciones de nubes,** haga click derecho en **conc_chl** en el Explorador de Productos y vaya a "Propiedades". Aparecerá la siguiente ventana.
+Para englobar las **correcciones de nubes**, haga click derecho en **conc_chl** en el Explorador de Productos y vaya a "Propiedades". Aparecerá la siguiente ventana.
 
 ![](snap17.PNG)
 
-Haga click en "Expresión de píxel válida" (Valid-Pixel-Expression). Complete la expresión inicial agregando: **&& !Cloud_risk** como aparece a continuación.
+Haga click en "Expresión de píxel válida" (Valid-Pixel-Expression). Complete la expresión inicial agregando: **&& !Cloud_risk** como aparece a continuación:
 
 ![](snap18.PNG)
 
->Repita los pasos anteriores de correcion de nubes para **unc_chl** (errores o incertidumbres de los valores de clorofila) en el Explorador de Productos.
+>Repita los pasos anteriores de corrección de nubes para **unc_chl** (errores o incertidumbres de los valores de clorofila) en el Explorador de Productos.
 
 ## Tsm (materia total suspendida)
 
-Para los Productos Tsm que son **conc_tsm** y **unc_tsm** repita los pasos 8-10 que se hicieron con Chl (clorofila).
+Para los productos tsm que son **conc_tsm** y **unc_tsm** repita los pasos 8-10 que se hicieron con Chl (clorofila).
 
-Cuando elija en la paleta de colores (paso 9), escoja la opción "cc_tsm.cpd" que es la adecuada para este tipo de productos.
+Cuando elija la paleta de colores (paso 9) escoja la opción "cc_tsm.cpd" que es la adecuada para este tipo de productos.
 
-Realice la corrección de nubes (paso 10) y la imagen resultante debería ser como:
+Realice la corrección de nubes (paso 10) y la imagen resultante debería ser así:
 
 ![](snap19.PNG)
 
->Realice el paso 10 en el que se engloban las correcciones de nubes para **unc_tsm**.
+>De igual forma que se hizo con unc_chl, para **unc_tsm** siga el paso 10 en el que se engloban las correcciones de nubes.
 
 ## Guardar Productos
 Si completó los pasos 8-10 haga click derecho en los productos que trabajó (conc_chl, unc_chl, con_tsm, unc_tsm) y elija "Convertir banda" (Convert Band) para cada uno de los 4 casos.
 
 ![](snap20.PNG)
 
-Vaya al subset donde trabajó y "Guardar producto" (Save Product).
+Vaya al subset donde se encuentran estos productos y "Guardar producto" (Save Product) con click derecho.
 
 ![](snap21.PNG)
 
