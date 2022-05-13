@@ -1,7 +1,7 @@
 ---
-title: "Que vas a encontrar"
-description: "Doks comes with commands for common tasks."
-lead: "Paquetes tecnologicos poco convencionales pero que amplian el conocimiento y pueden brindar informacion valiosa de costas-playas y todo lo que pueda girar en torno a ellas."
+title: "Qué vas a encontrar"
+description: "Nuevas tecnologías para aplicar al contexto playas"
+lead: "Paquetes tecnológicos poco convencionales pero que amplían el conocimiento y pueden brindar información valiosa de costas-playas y todo lo que pueda girar en torno a ellas."
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
@@ -16,36 +16,38 @@ toc: true
 {{< alert icon="💡" text="Nos estamos ahogando en información, mientras estamos hambrientos de sabiduría. El mundo de ahora en adelante estará dirigido por sintetizadores, personas capaces de reunir la información correcta en el momento correcto, piense críticamente al respecto y tome decisiones importantes sabiamente. (E O. Wilson)" />}}
 
 
-## Ejemplos - Tutoriales
+## Teoría - Ejemplos - Tutoriales
 
-De cada paquete enunciado se expondran ejemplos especificos, utilidad, de donde se toman los datos, como se porcesan y alguna otra informacion clave para tener un primer acercamiento y si es de interes poder profundizar
+De cada paquete enunciado se expondrá su base teórica, ejemplos específicos, de donde se pueden tomar datos relacionados, como se procesan y alguna otra información clave para tener un primer acercamiento y si es de utilidad poder profundizar.
 
-## Imagenes
+## Imágenes Satelitales
 
-![](color.png "Producto de Sentinel 3 (Satelite de la ESA) para procesar a una imagen Ocean Color o colores del oceano, donde es posible conocer concentraciones de clorofila o la cantidad de material total suspendido")
+![](color.png "Producto Sentinel 3 (Satélite de la ESA) para procesar a una imagen Ocean Color o colores del océano, donde es posible conocer concentraciones de clorofila o la cantidad de material total suspendido")
 
-![](clorofila.PNG "Producto con concetraciones de clorofila procesado en SNAP que es el software para manipular imagenes sentinel")
+## Imágenes Procesadas
 
+![](clorofila.PNG "Producto con concentraciones de clorofila procesado en SNAP, el software para manipular imágenes Sentinel")
 
-## Codigo
+## Código
 
 ```bash
-python version --version
+python --version
 
 import pandas as pd
 import numpy as np
 import torch
 ```
 
-Python por ser de los lenguajes de programacion multiproposito por excelencia.
+En Python, por ser de los lenguajes de programación mas vigentes para desarrollar eficientemente tareas de Data Science y Aprendizaje Automático.
 
-[Github](https://github.com/grammaloreto) donde se puede profundizar
+Más código en [Github.](https://github.com/grammaloreto)
 
-## Graficas
+## Gráficas
 
-![](grafica.png "Una imagen puede decir mas que muchas palabras")
+![](grafica.png "Simple, una gráfica puede decir más que muchas palabras o números.")
 
 ## Plataformas, software, notebooks, artículos
 
-### y Mas....
+### y Más....
+
 
