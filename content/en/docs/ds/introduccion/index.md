@@ -1,7 +1,7 @@
 ---
 title: "Introducción"
-description: "Marine Data Science"
-lead: "La ciencia de datos no es una disciplina de investigación en sí misma. Es un conjunto que abarca campos provenientes de la estadística, la teoría de la probabilidad o el aprendizaje automático, ademas de conceptos tradicionales de las matemáticas y la informática."
+description: "Introducción a Data Science"
+lead: "La ciencia de datos no es una disciplina de investigación en sí misma. Es un conjunto que abarca campos provenientes de la estadística, la teoría de la probabilidad o el aprendizaje automático, además de conceptos tradicionales de las matemáticas y la informática."
 date: 2020-10-06T08:48:57+00:00
 lastmod: 2020-10-06T08:48:57+00:00
 draft: false
@@ -15,23 +15,27 @@ toc: true
 
 ## Disciplinas? Requerimientos?
 
-Sí, multidisciplinario, multitarea o como se le quiera denominar.
+Sí, la ciencia de datos es multidisciplinaria, multitarea o como se le quiera denominar.
 
-En primer lugar, se requieren definiciones básicas y teoremas matemáticos en prácticamente la mayoria de campos de la ciencia de datos. Una sólida formación con estos "pre-requisitos" numericos forman la base necesaria para utilizar y desarrollar la diversidad de sus componentes. 
+En primer lugar, se requieren definiciones básicas y teoremas matemáticos en prácticamente la mayoría de campos. Una sólida formación de estos "pre-requisitos" numéricos forman la base necesaria para utilizar y desarrollar la diversidad de sus componentes. 
 
-La aplicación de métodos estadísticos incorpora resultados de la teoría de la probabilidad, por lo tanto, la comprensión del cálculo estocástico básico es esencial para elegir metodos correctos y comprender los resultados. 
+La aplicación de métodos estadísticos incorpora resultados de la teoría de la probabilidad, por lo tanto, la comprensión del cálculo estocástico básico es esencial para elegir las pruebas adecuadas y comprender sus resultados. 
 
-La implementación de estos conceptos en programas de computacion o informaticos (con o sin código) es otro punto a tener en cuenta y algo que no se puede obviar en un momento donde estamos dependiendo mas de la tecnologia. 
+La implementación de estos conceptos en programas de computación o informáticos (con o sin código) es otro punto a tener en cuenta y algo que no se puede obviar en un momento donde estamos dependiendo cada vez más de la tecnología. 
 
-Finalmente, es crucial transformar los datos en información y en conocimiento. Se debe navegar en diferentes contextos y comunicar resultados a distintos grupos de audiencias. Esto requiere habilidades comunicativas, confianza, cuestionar la información que se recibe y tener una mentalidad emprendedora que muestre resiliencia, determinación y entusiasmo por la multitarea. 
+Finalmente, es crucial transformar los datos en información útil y conocimiento. Se debe navegar en diferentes contextos y comunicar resultados a distintas audiencias. 
 
-## Conceptos ralacionados a tener en cuenta 
+Esto requiere habilidades comunicativas, confianza, cuestionar todo lo que se recibe y tener una mentalidad emprendedora que muestre resiliencia, determinación y entusiasmo por la multitarea. 
 
-### Inteligencia Artificial
+## Conceptos a tener en cuenta 
 
-La teoría y el desarrollo de sistemas informáticos que pueden realizar tareas o exhibir comportamiento que normalmente requiere inteligencia humana, como percepción visual, reconocimiento de voz, toma de decisiones y traducción entre idiomas. La inteligencia artificial es un término genérico que incluye el aprendizaje automático, el razonamiento de máquinas y  la robótica.
+### Inteligencia Artificial (AI)
 
-### Aprendizeje Automático (Machine Learning)
+La teoría y el desarrollo de sistemas informáticos que puede realizar tareas o exhibir comportamiento que normalmente requiere inteligencia humana, como la percepción visual, reconocimiento de voz, toma de decisiones y traducción entre idiomas. 
+
+La inteligencia artificial es un término genérico que incluye el aprendizaje automático, el razonamiento de máquinas y la robótica.
+
+### Aprendizaje Automático (Machine Learning)
 
 Considerado como un subcampo de la inteligencia artificial y la estadística. Se refiere a algoritmos que aprenden automáticamente a
 reconocer patrones complejos en nuevos conjuntos de datos, mejorar su rendimiento a partir de la experiencia y producir modelos que tienen poder predictivo. 
@@ -46,9 +50,9 @@ La clasificación clásica de imágenes requiere que un operador extraiga manual
 
 ### Minería de Datos (Data Mining)
 
-El proceso de descubrir información a partir de datos a través del reconocimiento de patrones. Está construido sobre varios campos incluidos: aprendizaje automático, inteligencia artificial, estadísticas, modelado matemático y actividades de bases de datos.
+El proceso de descubrir información a partir de datos a través del reconocimiento de patrones. Está construido sobre varios campos incluidos: aprendizaje automático, inteligencia artificial, estadística, modelado matemático y actividades de bases de datos.
 
-La minería de datos puede extraer información útil que puede resumir los datos disponibles y proporcionar información para tomar decisiones cruciales.
+La minería de datos puede extraer información útil que puede resumir y proporcionar criterios sustentados para tomar decisiones.
 
 
 

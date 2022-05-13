@@ -1,7 +1,7 @@
 ---
 title: "Temperatura del mar y Data Science"
-description: "Como manipulas Imagenes-Datos de Ocean color derivados de un Satelite como Sentinel-3 ?"
-lead: "La temperatura de la superficie del mar (SST) es una metrica comun en nuestros oceanos e importante de considerar, ya que afecta directamente a todas las especies marinas como pueden ser los corales o influye en la proliferacion de plancton o microorganismos tóxicos. El aumento del nivel del mar, erosion costera y la intensificacion de tormentas son otras problematicas asociadas a las temperaturas marinas."
+description: "Como manejar datos espacio-temporales"
+lead: "La temperatura de la superficie del mar (SST) es una métrica común en nuestros océanos e importante de considerar, ya que afecta directamente a todas las especies marinas como pueden ser los corales o influye en la proliferación de plancton o microorganismos tóxicos. El aumento del nivel del mar, erosión costera y la intensificación de tormentas son otras problemáticas asociadas a las temperaturas marinas."
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false
@@ -15,9 +15,9 @@ toc: true
 
 ## Resumen
 
-La facilidad para acceder a datos fisicos del oceano ha mejorado notoriamente y en la actualidad son accesibles a tiempo real. 
+La facilidad para acceder a datos físicos del océano ha mejorado notoriamente y en la actualidad son accesibles a tiempo real. 
 
-STT como se le conoce en ingles (Sea Surface Temperature) es quiza una de las métricas con maoyr registro a traves del tiempo. Es posible encontrar datos de temperaturas del mar de la decada de los 80's, incluso en algunos casos de los 70´s.
+STT como se le conoce en inglés (Sea Surface Temperature) es quizá una de las métricas con mayor registro a través del tiempo. Es posible encontrar datos de temperaturas del mar de la década de los años 80's, incluso en algunos casos de los 70´s.
 
 Los mecanismos actuales son muy confiables y son varios los objetos que se encargan de tomar estos registros. Tanto a nivel satelitel para despues ser validados por boyas u objetos que estan en "contacto" mas estrecho son un ejemplo.
 
