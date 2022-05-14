@@ -133,7 +133,7 @@ Se tomó la temperatura de la superficie del mar (SST) de 2020-2021 en los 11 pu
 
 El resultado fue:
 
-![](prophet.png "Imagen 5. Pronóstico de la temperatura superficial del mar (SST) en el Parque Nacionall Natural Islas de Rosario para los primeros 100 días del año 2022 a partir de los datos recogidos de los años 2020 y 2021.")
+![](prophet.png "Imagen 5. Pronóstico de la temperatura superficial del mar (SST) en el Parque Nacional Natural Islas de Rosario para los primeros 100 días del año 2022 a partir de los datos recogidos de los años 2020 y 2021.")
 
 Para profundizar la metodología con Prophet [👉 aquí.](https://github.com/grammaloreto/SeaSurfaceTemperature-SST-/tree/main/prophetForecasting)
 
