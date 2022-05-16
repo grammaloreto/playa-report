@@ -1,1 +1,1 @@
-canonifyURLs = false
+baseURL = "https://playa-report.netlify.app/"
