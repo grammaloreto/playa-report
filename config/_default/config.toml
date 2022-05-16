@@ -1,5 +1,5 @@
-baseURL = "https://playa-report.netlify.app/"
-canonifyURLs = "https://playa-report.netlify.app/"
+baseurl = "https://doks.netlify.app/"
+canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
 enableEmoji = true
