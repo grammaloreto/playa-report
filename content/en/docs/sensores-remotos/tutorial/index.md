@@ -1,7 +1,7 @@
 ---
 title: "Colores del océano con Sentinel-3"
 description: "Cómo manipular Imagenes-Datos de Ocean color derivados de un Satélite Sentinel-3?"
-lead: "Cómo manipular Imágenes-Datos de Ocean Color derivados de un Satélite Sentinel-3 ?"
+lead: "Cómo manipular Imágenes - Datos de Ocean Color derivados de un Satélite Sentinel-3 ?"
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false
