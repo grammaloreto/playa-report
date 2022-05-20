@@ -25,7 +25,7 @@ junto a las observaciones clásicas desde barcos.
 
 Toda esta infraestructura con tecnología de punta mide diversas variables en periodos de tiempo prolongados que cada vez revolucionan más nuestro conocimiento.
 
-Si quieres profundizar [Leer Acá](https://www.grammaloreto.co/es/post/ciencia-datos-marinos)
+Si quiere profundizar [Leer Acá.](https://www.grammaloreto.co/es/post/ciencia-datos-marinos)
 
 
 ### Mas Datos Marinos implican RETOS como:
@@ -41,7 +41,7 @@ y el procesamiento de información.
 
 - Un análisis estandarizado de big data que garantice la validación mediante el desarrollo de colaboraciones cercanas entre científicos de datos y marinos, en el que se desarrollen modelos conjuntos para el entrenamiento de algoritmos.
 
-- El desarrollo de capacitación especializada e inteligencia artificial mediante el establecimiento de alianzas regionales e internacionales. 
+- El desarrollo de capacitación especializada e inteligencia artificial con el establecimiento de alianzas regionales e internacionales. 
 
 *Estos retos han sido declarados por un panel de expertos de la junta para temas marinos de la Unión Europea (Marine Board).*
 

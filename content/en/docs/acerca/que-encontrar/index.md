@@ -18,15 +18,15 @@ toc: true
 
 ## Teoría - Ejemplos - Tutoriales
 
-De cada paquete enunciado se expondrá su base teórica, ejemplos específicos, de donde se pueden tomar datos relacionados, como se procesan y alguna otra información clave para tener un primer acercamiento y si es de utilidad poder profundizar.
+De cada paquete - temática se expondrá su base teórica, ejemplos específicos, de donde se pueden tomar datos relacionados, como se procesan y alguna otra información clave para tener un primer acercamiento y si es de utilidad poder profundizar.
 
 ## Imágenes Satelitales
 
-![](color.png "Producto Sentinel 3 (Satélite de la ESA) para procesar a una imagen Ocean Color o colores del océano, donde es posible conocer concentraciones de clorofila o la cantidad de material total suspendido")
+![](color.png "Producto Sentinel 3 (Satélite de la ESA) para procesar a una imagen Ocean Color o colores del océano, donde es posible conocer concentraciones de clorofila o la cantidad de material total suspendido.")
 
 ## Imágenes Procesadas
 
-![](clorofila.PNG "Producto con concentraciones de clorofila procesado en SNAP, el software para manipular imágenes Sentinel")
+![](clorofila.PNG "Producto con concentraciones de clorofila procesado en SNAP, el software para manipular imágenes Sentinel.")
 
 ## Código
 
@@ -38,7 +38,7 @@ import numpy as np
 import torch
 ```
 
-En Python, por ser de los lenguajes de programación mas vigentes para desarrollar eficientemente tareas de Data Science y Aprendizaje Automático.
+Python, por ser de los lenguajes de programación mas vigentes para desarrollar eficientemente tareas de Data Science y Aprendizaje Automático.
 
 Más código en [Github.](https://github.com/grammaloreto)
 

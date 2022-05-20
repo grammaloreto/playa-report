@@ -17,7 +17,7 @@ toc: true
 
 Sí, la ciencia de datos es multidisciplinaria, multitarea o como se le quiera denominar.
 
-En primer lugar, se requieren definiciones básicas y teoremas matemáticos en prácticamente la mayoría de campos. Una sólida formación de estos "pre-requisitos" numéricos forman la base necesaria para utilizar y desarrollar la diversidad de sus componentes. 
+En primer lugar, se requieren definiciones básicas y teoremas matemáticos en prácticamente la mayoría de campos. Una sólida formación de estos "pre-requisitos" numéricos forman la base necesaria para utilizar y desarrollar la diversidad de componentes. 
 
 La aplicación de métodos estadísticos incorpora resultados de la teoría de la probabilidad, por lo tanto, la comprensión del cálculo estocástico básico es esencial para elegir las pruebas adecuadas y comprender sus resultados. 
 

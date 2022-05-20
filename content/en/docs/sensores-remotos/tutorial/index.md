@@ -102,7 +102,7 @@ Después del paso 6 aparecerá una ventana. Es importante tener en cuenta un par
 
   - confirme que en *OLCI L1b product* esté el subset correcto.
 
-  - elija el directorio (Directory) donde va a guardar los subsets de clorofila y tsm (mts).
+  - elija el directorio (Directory) donde va a guardar los subsets de clorofila y tsm.
 
   ![](snap9.PNG)
 
@@ -141,11 +141,11 @@ En la ventana que aparece (recuadro de abajo) escoja la paleta de su preferencia
 ![](snap15.PNG)
 
 ### 10. Corrección de nubes
-Es importante hacer una **corrección de nubes** adecuada para no obtener datos erroneos.
+Es importante hacer una **corrección de nubes** adecuada para no obtener datos erróneos.
 
 Haga click en el "Administrador de máscaras" (Mask Manager) que está en el lado derecho de la pantalla (puede verlo en la imagen anterior) y elija la opción "Cloud_risk". 
 
-Puede elegir otras banderas para obtener mejores resultados. Por ejemplo, "quality_flags_land".
+Puede escoger otras banderas para obtener mejores resultados. Por ejemplo, "quality_flags_land".
 
 La imagen resultante tendrá píxeles de nube en gris y tierra en verde oscuro.
 

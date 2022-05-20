@@ -30,7 +30,7 @@ El proceso consta básicamente de 3 pasos:
 
 Para una mejor comprensión del Análisis de Sentimientos con Hugging Face y BERT, ayudaría tener nociones básicas de **Python** y de cómo trabajar en un Jupyter Notebook.
 
-Este [👉artículo.](https://grammaloreto.netlify.app/analisis-sent/) ilustra lo que vamos a hacer.
+Este [👉artículo](https://grammaloreto.netlify.app/analisis-sent/) ilustra lo que vamos a hacer.
 
 ```bash
 python --version # tienes python instalado?

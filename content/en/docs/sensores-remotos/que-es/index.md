@@ -1,7 +1,7 @@
 ---
 title: "Qué es?"
 description: "Base teórica de Sensores Remotos, enfatizando en los Satélites."
-lead: "Los Sensores remotos abarcan todo lo referente a la obtención de información de un objeto o fenómeno sin realizar contacto físico directo. Es un campo amplio y sus técnicas se utilizan en diferentes áreas como la geografía, meteorología, ecología y el resto de ciencias de la tierra, aunque no se limita sólo a ellas ya que también tiene usos en aplicaciones militares, comerciales, o económicas."
+lead: "Los Sensores remotos abarcan todo lo referente a la obtención de información de un objeto, fenómeno o entorno sin realizar contacto físico directo (en la mayoría de casos). Es un campo amplio y sus técnicas se utilizan en diferentes áreas como la geografía, meteorología, ecología y el resto de ciencias de la tierra, aunque no se limita sólo a ellas ya que también tiene usos en aplicaciones militares, comerciales, o económicas."
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00
 draft: false
@@ -17,15 +17,15 @@ toc: true
 
 ## Tipos
 
-Dependiendo del tipo de información que se desea capturar se utilizan diferentes medios. Para imágenes de muy alta resolución, cubriendo áreas pequeñas se utilizan UAVs (vehículos aéreos no tripulados) y drones. 
+Dependiendo del tipo de información que se desea capturar se utilizan diferentes medios. Para imágenes de muy alta resolución, cubriendo áreas pequeñas se utilizan UAVs (vehículos aéreos no tripulados) o drones. 
 
-Cuando se necesitan imágenes de alta resolución, pero con una mayor cobertura se utilizan aviones o helicópteros. 
+Cuando se necesitan imágenes de alta resolución, pero con una mayor cobertura se utilizan aviones y helicópteros. 
 
-De igual forma, cuando ha que cubrir áreas muy amplias se usan satélites, de baja, media o alta órbita terrestre en los que encontramos resoluciones de todo tipo. 
+De igual forma, cuando hay que cubrir áreas muy amplias se usan satélites, de baja, media o alta órbita terrestre en los que encontramos resoluciones de todo tipo. 
 
-No obstante, cuando hablamos de Remote Sensing generalmente nos referimos a la información que se obtiene a través de los diferentes sensores que utilizan los satélites para obtener datos de la tierra, desde la atmosfera y los océanos a ciudades o zonas terrestres, ya que ofrecen una mayor información espacial.
+No obstante, cuando hablamos de *Remote Sensing* generalmente nos referimos a la información que se obtiene a través de los diferentes sensores que utilizan los satélites para obtener datos de la tierra. Desde la atmósfera y los océanos a ciudades o zonas terrestres, ya que ofrecen una mayor cobertura espacial.
 
-![](marine-sources.PNG "Sensores Remotos para registrar datos marinos: boyas, vehículos no tripulados, satélites, sondas argos, cables submarinos de fibra óptica, entre otros. (Imagen de la European Marine Board)")
+![](marine-sources.PNG "Sensores Remotos para registrar datos marinos: boyas, vehículos no tripulados, satélites, sondas argos, cables submarinos de fibra óptica, entre otros. (Imagen de la European Marine Board).")
 
 ## Datos Satelitales, una revolución cada vez mas accesible 
 
@@ -34,9 +34,9 @@ Pese a que los Sensores Remotos generan muchos tipos de datos, los más comunes 
 
 ### Bandas Espectrales 
 
-Al aumentar el área que se cubre se suele perder resolución espacial, pero hay satélites capaces de obtener resoluciones de 50 cm por píxel. 
+Al aumentar el área de cobertura se suele perder resolución espacial, pero hay satélites capaces de obtener resoluciones de 50 cm por píxel. 
 
-En cuanto a la resolución espectral, muchos de estos datos son imágenes multiespectrales, es decir, que contiene varias bandas con información que el sensor es capaz de captar en un conjunto de longitudes de onda; o hiperespectrales, que contiene bandas con muchas menos longitudes de onda, pero con cientos o miles de estas.
+En cuanto a la resolución espectral, se podría hablar de imágenes multiespectrales, es decir, que contiene varias bandas con información que el sensor es capaz de captar en un conjunto de longitudes de onda; o hiperespectrales, que contiene bandas con muchas menos longitudes de onda, pero con cientos o miles de estas.
 
 
 ### Sentinel 3, único en su especie 

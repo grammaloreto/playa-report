@@ -26,14 +26,14 @@ Los datos juegan un papel preponderante en la esencia de **playa.report** al ser
 
 Cada destino, municipio, ciudad, organización, grupo de trabajo toma la ola que cree más lejos lo llevará. La ola de **playa.report** se caracteriza por su altura tecnológica y versatilidad.
 
-### Playas Autenticas
+### Playas Auténticas
 
 La autenticidad innata de cada lugar no se negocia y es el punto de partida ideal para las transformaciones necesarias de la nueva ola de playas! 
 
 Ante el desconocimiento, desinformación, ausencia de recursos, la falta de capacidad u otro; es indispensable aplicar estrategias creativas y fundamentadas con herramientas tecnológicas para tener servicios de calidad, proteger el recurso o estar a la vanguardia de los principales destinos turísticos.
 
 
-### 3 pilares a considerar
+### 3 Pilares a considerar
 
 - La extracción, exploración, transformación, análisis y visualización de datos para potenciar la gestión, los procesos diagnósticos y la monitorización de proyectos.
 
@@ -48,6 +48,6 @@ Puedes contribuir. [Comunícate →](https://grammaloreto.co/es/contacto)
 
 ## Un nuevo aire...
 
-En **playa.report** brindamos un nuevo aire y vamos a la par de la nueva ola de playas-reportes. 
+En **playa.report** brindamos un nuevo aire y vamos a la par de la nueva ola de playas. 
 
 

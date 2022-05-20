@@ -21,7 +21,7 @@ Hay diferentes "sabores" de análisis de sentimientos. Una de las técnicas más
 
 ## Al alcance de todos
 
-En el pasado, los análisis de sentimientos solían estar limitados a investigadores, ingenieros de aprendizaje automático o científicos de datos con experiencia en procesamiento de lenguaje natural (PLN). Sin embargo, en los últimos años se han creado herramientas increíbles para democratizar su acceso, hoy en día se puede usar con unas pocas líneas de código y sin ninguna experiencia previa.
+En el pasado, los análisis de sentimientos solían estar limitados a investigadores, ingenieros de aprendizaje automático o científicos de datos con experiencia en procesamiento de lenguaje natural (PLN). Sin embargo, en los últimos años se han creado herramientas increíbles para democratizar su acceso y hoy en día se puede usar con unas pocas líneas de código sin ninguna experiencia previa.
 
 ## Aplicaciones
 
@@ -51,7 +51,7 @@ Los resultados son alentadores ya que pueden usarse para complementar otros enfo
 
 ### "Scraping" de comentarios
 
-Sin la materia prima no se puede hacer nada, es por eso primordial tener presente distintas técnicas para poder tomar gran cantidad de datos (comentarios). Para lograr el cometido es necesario saber de alguna herramienta para extraer dicha información. Sería muy costoso y demorado copiar y pegar reviews.
+Sin la materia prima no se puede hacer nada, es por eso primordial tener presente distintas técnicas para poder tomar gran cantidad de datos (comentarios). Para lograr el cometido es necesario saber de alguna herramienta para extraer dicha información. Sería muy costoso y demorado copiar/pegar reviews.
 
 *Beautiful Soup* es una dependencia de Python ampliamente usada y conocida. A la par también se encuentra *Selenium* que es otro módulo con propiedades similares, de gran utilidad en este tipo de tareas.
 
@@ -66,9 +66,9 @@ Al momento de la escogencia del modelo es importante tener claras ciertas consid
 
 Aunque en el último tiempo están apareciendo mas modelos en español, todavía son pocos a comparación de los existentes en otros idiomas. 
 
-Con los análisis de sentimientos y demás trabajos de Procesamiento de Lenguaje Natural (PLN) el proposito para un futuro es tener un modelo propio dedicado exclusivamente a playas y en español.
+Con los análisis de sentimientos y demás trabajos de Procesamiento de Lenguaje Natural (PLN), el propósito para un futuro es tener un modelo propio dedicado exclusivamente a playas y en español.
 
-Si de alguna forma quieres colaborar, contacto [Aquí.](https://www.grammaloreto.co/es/contacto/) 
+Si de alguna forma desea colaborar, contacto [Aquí.](https://www.grammaloreto.co/es/contacto/) 
 
 
 

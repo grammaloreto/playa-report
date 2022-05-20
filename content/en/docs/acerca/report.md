@@ -33,7 +33,7 @@ El punto de inflexión para sacarle provecho a la mayoría de datos e informaci�
 
 Existe software o programas informáticos específicos para hacer tareas puntuales y de forma eficiente. Aunque algo si está claro, tener una base de programación da un salto de calidad enorme en el aprovechamiento, manipulación, accesibilidad, transformación, visualización, predicción de datos y otros productos.
 
-## Todas las herramientas son validas!
+## Todas las herramientas son válidas!
 
 Afortunadamente no hay dictaduras y el espectro es muy amplio. Es verdad que para ciertas tareas es mejor usar una herramienta sobre la otra, pero la realidad es que hay mayor empatía con unas en base a los recursos con que se cuenta, la facilidad de aprendizaje y sobre todo, la utilidad que se le pueda dar.
 

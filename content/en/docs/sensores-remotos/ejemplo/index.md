@@ -30,7 +30,7 @@ En imágenes satelitales compuestas a largo plazo, las regiones con alta product
 ## Los Colores
 
 ### Azul
-La razón por la que las aguas de mar abierto parecen azules es que son muy claras, algo similares al agua pura, pues tienen pocos materiales presentes o solo partículas muy pequeñas. El agua pura absorbe la luz roja y a medida que se absorbe, la luz azul permanece.
+La razón por la que las aguas de mar abierto parecen azules es porque son muy claras, algo similares al agua pura, pues tienen pocos materiales presentes o solo partículas muy pequeñas. El agua pura absorbe la luz roja y a medida que se absorbe, la luz azul permanece.
 
 ### Verde
 
@@ -46,7 +46,7 @@ Más sedimentos pueden hacer que las aguas se vean más verdes o amarillas porqu
 
 ### Rojo
 
-El agua del océano puede verse roja si hay un florecimiento de un tipo específico de fitoplancton que cause una decoloración de la superficie del mar. Estos eventos se denominan “mareas rojas”. Sin embargo, no todas las mareas rojas son dañinas, y solo se consideran floraciones de algas nocivas si el tipo de plancton involucrado contiene toxinas peligrosas. 
+El agua del océano puede verse roja si hay un florecimiento de un tipo específico de fitoplancton que cause una decoloración de la superficie del mar. Estos eventos se denominan “mareas rojas”. Sin embargo, no todas las mareas rojas son dañinas y solo se consideran floraciones de algas nocivas si el tipo de plancton involucrado contiene toxinas peligrosas. 
 
 Algunos ejemplos son *Karenia brevis* en el Golfo de México, *Alexandrium fundyense* en el Golfo de Maine, *Margalefadinium polykroides* y *Alexandrium monilatum* en la Bahía de Chesapeake y *Mesodinium rubrum* en Long Island Sound.
 
@@ -54,7 +54,7 @@ Algunos ejemplos son *Karenia brevis* en el Golfo de México, *Alexandrium fundy
 
 Las mediciones del color del océano se pueden utilizar para inferir información importante, como la biomasa de fitoplancton o las concentraciones de otros materiales vivos y no vivos. Los patrones de la proliferación de algas desde satélite a lo largo del tiempo, en grandes regiones hasta la escala del océano global, han sido fundamentales para caracterizar la variabilidad de los ecosistemas marinos. 
 
-Los datos de color de los océanos son una herramienta clave para investigar cómo responden los ecosistemas marinos al cambio climático y las perturbaciones antropogénicas.
+Los datos de color oceánico son una herramienta clave para investigar cómo responden los ecosistemas marinos al cambio climático y las perturbaciones antropogénicas.
 
 ### Radiómetros
 
