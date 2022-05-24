@@ -1,7 +1,7 @@
 ---
 title: "Esencia"
-description: "playa.report busca divulgar y consolidar herramientas no convencionales para aplicarlas en un nuevo modelo de reportes con información inteligente e innovadora para nuestras playas."
-lead: "playa.report busca divulgar y consolidar herramientas no convencionales para aplicarlas en un nuevo modelo de gestión y documentación, con información inteligente e innovadora para nuestras playas."
+description: "playa.report busca divulgar y consolidar herramientas para aplicarlas en un nuevo modelo de reportes con información inteligente e innovadora para nuestras playas."
+lead: "playa.report busca evidenciar y consolidar paquetes tecnológicos para aplicarlos en modelos de gestión y documentación en favor de nuestras costas/océanos."
 date: 2020-10-06T08:48:57+00:00
 lastmod: 2020-10-06T08:48:57+00:00
 draft: false
